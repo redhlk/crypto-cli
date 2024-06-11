@@ -1,0 +1,7 @@
+{
+    "python.analysis.extraPaths": [
+        "./src",
+        "./src/crypto"
+    ],
+    "python.formatting.provider": "black"
+}
